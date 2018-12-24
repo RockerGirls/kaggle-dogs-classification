@@ -1,2 +1,4 @@
 # kaggle-dogs-classification
-本科大数据课程作业， kaggle狗分类，gluon实现，纵向对比ResNet+软投票+加权投票
+Python3.6
+训练集10222张, 测试集10357张
+执行main.ipynb即可生成提交文件
